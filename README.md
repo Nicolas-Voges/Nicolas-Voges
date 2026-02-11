@@ -1,15 +1,15 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&desc=FULLSTACK%20DEVELOPER&descSize=56&descAlign=50&descAlignY=60&textBg=false&theme=cobalt"  />
+    <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&desc=FULLSTACK%20DEVELOPER&descSize=56&descAlign=50&descAlignY=60&textBg=false&theme=cobalt"  />
 </div>
 
 ###
 
-<img align="left" height="200" src="https://nicolas-voges.de/assets/img/photo.jpg"  />
+<img align="left" height="200" src="https://nicolas-voges.de/assets/img/photo.jpg" />
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=footer&reversal=false&text=Let%C2%B4s%20code%20together!&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&desc=I%20have%20already%20familiarized%20myself%20with%20several%20frontend%20and%20backend%20technologies%20in%20group%20and%20solo%20projects.&descSize=16&descAlign=50&descAlignY=80&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=footer&reversal=false&text=Let%C2%B4s%20code%20together!&fontSize=23&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=fadeIn&desc=I%20have%20already%20familiarized%20myself%20with%20several%20frontend%20and%20backend%20technologies%20in%20group%20and%20solo%20projects.&descSize=16&descAlign=50&descAlignY=80&textBg=false&theme=dark"  />
 </div>
 
 ###
@@ -37,6 +37,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -63,42 +65,23 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nicolas-Voges/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nicolas-Voges/Nicolas-Voges/output/snake.svg" alt="Snake animation" />
+
 
 ###
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nicolas-Voges.Nicolas-Voges&"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolas-Voges&theme=dracula" alt="Profile Details" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Voges&theme=dracula" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nicolas-Voges&theme=dracula" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicolas-Voges&theme=dracula" height="165"/>
 </div>
 
 ###
-
-
-
-
-
-
-
-<h1 align="center">Hi 👋, I'm Nicolas Voges</h1>
-<h3 align="center">A passionate fullstack developer from Germany</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolas-voges&label=Profile%20views&color=0e75b6&style=flat" alt="nicolas-voges" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolas-voges" alt="nicolas-voges" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolas-voges&show_icons=true&locale=en&layout=compact" alt="nicolas-voges" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas-voges&show_icons=true&locale=en" alt="nicolas-voges" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolas-voges&" alt="nicolas-voges" /></p>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nicolas-Voges.Nicolas-Voges&"  />
+</div>
 
 <!--
 **Nicolas-Voges/Nicolas-Voges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
