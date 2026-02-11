@@ -73,9 +73,10 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolas-Voges&theme=dracula" alt="Profile Details" width="100%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Voges&theme=dracula" height="165"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nicolas-Voges&theme=dracula" height="165"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicolas-Voges&theme=dracula" height="165"/>
+  </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Voges&theme=dracula" height="165"/>
 </div>
 
 ###
