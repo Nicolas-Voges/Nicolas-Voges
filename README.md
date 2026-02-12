@@ -14,38 +14,31 @@
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+<h2>🚀 Tech Stack</h2>
+<h3>🖥️ Frontend</h3>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/typescript/typescript-plain.svg" title="TypeScript" width="40px"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-plain.svg" title="JavaScript" width="40px"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/angular/angular-original.svg" title="Angular" width="40px"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/html5/html5-original.svg" title="html5" width="40px"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/css3/css3-original.svg" title="CSS3" width="40px"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/sass/sass-original.svg" title="SCSS" width="40px"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40px"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" width="40px"/>
+</p>
+
+<h3>🧠 Backend & DB</h3>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" title="Python" width="40px"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain.svg" title="Django" width="40px"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -54,11 +47,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/firebase/firebase-original.svg" height="40" alt="firebase logo"  />
+</p>
+<h3>🔧Infrastructure & Tools</h3>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" title="Git" width="40px"/>
+  <img width="15" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg" title="Github" width="40px"/>
+  <img width="15" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postman/postman-original.svg" title="Postman" width="40px"/>
+  <img width="15" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/figma/figma-original.svg" title="Figma" width="40px"/>
+  <img width="15" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" title="VS Code" width="40px"/>
+
 </div>
 
 ###
-
-<div align="center">
+<h3>Social</h3>
+<div>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
