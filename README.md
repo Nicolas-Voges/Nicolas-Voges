@@ -75,7 +75,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nicolas-Voges/Nicolas-Voges/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nicolas-Voges/Nicolas-Voges/output/snake-dark.svg" alt="Snake animation" />
 
 
 ###
