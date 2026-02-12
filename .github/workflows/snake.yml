@@ -25,10 +25,8 @@ jobs:
             output/snake-dark.svg?palette=github-dark
             output/snake-dark-2.svg?palette=github-dark-dimmed
 
-      - name: Commit and Push
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add output/
-          git commit -m "Update snake animations [skip ci]" || echo "No changes to commit"
-          git push
+      - name: Push to Output Branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: output
+          branch: output
