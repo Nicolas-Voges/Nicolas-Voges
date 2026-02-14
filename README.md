@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/firebase/firebase-original.svg" height="40" alt="firebase logo"  />
 </p>
-<h3>🔧Infrastructure & Tools</h3>
+<h3>🔧 Tools</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
